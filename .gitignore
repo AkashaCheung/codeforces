@@ -3,6 +3,8 @@
 *~
 *.swp
 *.iml
+.DS_Store
+._.DS_Store
 .cache
 # sbt specific
 dist/*
