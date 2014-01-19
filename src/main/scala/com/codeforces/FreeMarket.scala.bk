@@ -1,0 +1,7 @@
+
+object FreeMarket extends App {
+	val scan = new Scanner(System.in)
+	val n = scan.nextInt
+	val d = scan.nextInt
+	val minD = Array[Int](
+}
